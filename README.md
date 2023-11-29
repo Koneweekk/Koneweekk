@@ -25,8 +25,8 @@
 
 <h2 align="center">💯 My Stats 💯</h2>
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=rlagkswn37">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koneweekk&show_icons=true&theme=material-palenight">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=rlagkswn37" width=300>
+  <img src="https://github-readme-stats.vercel.app/api?username=Koneweekk&show_icons=true&theme=material-palenight" width=350>
 </p>
 
 
