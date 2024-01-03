@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20Koneweekk&fontSize=60"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Welcome%20to%20Koneweekk&section=header&fontColor=614385&fontSize=60"></p>
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">
